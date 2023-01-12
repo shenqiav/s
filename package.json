@@ -1,0 +1,19 @@
+{
+  "name": "s",
+  "version": "1.0.0",
+  "description": "",
+  "main": "s.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenqiav/s.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shenqiav/s/issues"
+  },
+  "homepage": "https://github.com/shenqiav/s#readme"
+}
